@@ -1,0 +1,14 @@
+# Core data handling
+pandas>=2.2.0
+numpy>=1.26.0
+pyarrow>=15.0.0
+
+# Data sourcing
+yfinance>=0.2.40
+
+# Machine learning / modeling
+scikit-learn>=1.5.0
+
+# Optional but useful for notebooks or quick visual checks
+matplotlib>=3.9.0
+jupyter>=1.0.0
